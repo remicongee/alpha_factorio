@@ -17,6 +17,7 @@
 | **Factorio Calculator** | Online calculator for production ratios and crafting chains. | [kirkmcdonald.github.io/calc](https://kirkmcdonald.github.io/calc.html#data=2-0-55&items=advanced-circuit:f:1) |
 | **Official Scripting Tutorial** | The official guide for creating scripts and mods in Factorio. | [wiki.factorio.com/Tutorial:Scripting](https://wiki.factorio.com/Tutorial:Scripting) |
 | **Factorio TAS Mod (Any%)** | A tool-assisted speedrun (TAS) mod that automates rocket launch in vanilla Factorio. | [gotyoke/Factorio-AnyPct-TAS](https://github.com/gotyoke/Factorio-AnyPct-TAS/blob/master/README.md) |
+| **factorio-tas-playback** | TAS mod speed run check [this file](https://github.com/Bilka2/factorio-tas-playback/blob/0.16/scenarios/RedDesertTAS/RedDesertRun.lua) to see how to control the charactor | https://github.com/Bilka2/factorio-tas-playback/tree/0.16 |
 | **Reddit Discussion** | Community discussion on controlling the player through mods. | [reddit.com/r/factorio/...](https://www.reddit.com/r/factorio/comments/b4i1yx/controlling_the_player_through_a_) |
 
 ---
